@@ -54,6 +54,9 @@
 }
 
 @media (max-width: 800px) {
+    .tecnologia-bg {
+        box-shadow: initial;
+    }
     .tecnologia {
         grid-template-columns: 1fr;
     }
