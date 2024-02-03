@@ -50,7 +50,7 @@
 
 .tecnologia-vantagens img {
     width: 24px;
-    max-width: 8px;
+    margin-bottom: 8px;
 }
 
 @media (max-width: 800px) {
