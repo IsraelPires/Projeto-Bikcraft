@@ -1,5 +1,6 @@
 .footer-bg {
     background-color: var(--cor-12);
+
 }
 
 .footer {
@@ -8,7 +9,6 @@
     gap: 40px;
     padding-top: 60px;
     padding-bottom: 60px;
-
 }
 
 .footer h3 {
@@ -58,5 +58,8 @@
 @media (max-width: 600px ) {
     .footer {
         grid-template-columns: 1fr;
+    }
+    .footer-copy {
+        margin-top: 0px;
     }
 }
